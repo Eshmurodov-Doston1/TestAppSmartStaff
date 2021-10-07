@@ -68,7 +68,7 @@
         app:layout_constraintHorizontal_bias="0.02"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/consM1" >
+        app:layout_constraintTop_toBottomOf="@id/consM1">
         <androidx.appcompat.widget.AppCompatSpinner
             android:id="@+id/algorithm1"
             android:layout_width="0dp"
